@@ -1,8 +1,6 @@
 "use client";
 
 import PodcastCard from '@/components/PodcastCard'
-import { Button } from '@/components/ui/button'
-import { podcastData } from '@/constants'
 import React from 'react'
 
 

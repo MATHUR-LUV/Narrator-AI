@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react'
-import { EmblaOptionsType, EmblaCarouselType } from 'embla-carousel'
+import { EmblaCarouselType } from 'embla-carousel'
 import Autoplay from 'embla-carousel-autoplay'
 import useEmblaCarousel from 'embla-carousel-react'
 import { CarouselProps } from '@/types'

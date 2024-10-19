@@ -1,7 +1,6 @@
 "use client";
 
 import { api } from '@/convex/_generated/api';
-import { cn } from '@/lib/utils';
 import { SignedIn, UserButton, useUser } from '@clerk/nextjs'
 import { useQuery } from 'convex/react';
 import Link from 'next/link'
